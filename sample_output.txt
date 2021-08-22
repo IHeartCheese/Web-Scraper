@@ -1,0 +1,74 @@
+[*] 4 E-mails found
+
+- p.leimich@napier.ac.uk
+- mitcho@mitcho.com
+- bill@napier-mail.ac.uk
+- webteam@mail.napier.ac.uk
+
+1 Mailto:'s found
+
+- mailto:webteam@mail.napier.ac.uk
+
+[*] 5 Phone Numbers found
+
+- 0131 455 2593
+- +44-131-4552706
+- +44-131-4552706
+- +44 (0)333 900 6040
+- +44(0)1314552759
+
+[*] 15 Hyperlinks found
+
+- https://www.rottentomatoes.com/m/star_wars_the_last_jedi/
+- https://www.rottentomatoes.com/m/star_wars_the_last_jedi/trailers/11304078
+- https://resizing.flixster.com/rLAoq_aX1ZYgon9StZ9358ikwnY=/300x300/v1.bjsxNzQ3MTg4O2o7MTc5MzA7MTIwMDs1NzYwOzM4NDA
+- https://resizing.flixster.com/00zPNKDlHUNtYCEEAx3V47qxtw4=/fit-in/1152x864/v1.bjsxNzQ3MTg4O2o7MTgwMjA7MTIwMDs1NzYwOzM4NDA
+- https://www.rottentomatoes.com/m/1000085_2001_a_space_odyssey
+- http://www.rottentomatoes.com/m/1000085_2001_a_space_odyssey/pictures
+- https://www.rottentomatoes.com/m/the_martian
+- https://www.rottentomatoes.com/m/the_martian
+- https://link.theplatform.com/s/NGweTC/media/rZP5nY5nkQ9s?format=redirect
+- http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf
+- http://cwe.mitre.org/top25/
+- http://www.napier.ac.uk/en/Courses/MSc-Advanced-Security-and-Digital-Forensics-Postgraduate-FullTime
+- http://asecuritysite.com
+- http://www.asecuritysite.com/content/icon_clown.gif
+- http://php.net/manual/en/intro-whatis.php
+
+[*] 17 Files found
+
+- xine.png
+- gear3.png
+- nothingtoseehere.pdf
+- subfolder/Martian.docx
+- subfolder/The%20Martian%20-%20image.jpg
+- http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf
+- msc_asdf_logo.jpeg
+- http://www.asecuritysite.com/content/icon_clown.gif
+- icon_clown.gif
+- subfolder/icon_clown.gif
+- big.jpg
+- Doc100.docx
+- broken.docx
+- monty-python-(1).bmp
+- essays.gif
+- dingbat.jpg
+
+[*] 2 Failed Downloads found
+
+- broken.docx
+
+[*] 4 MD5 Hashes found
+
+- d1133275ee2118be63a577af759fc052
+- 5badcaf789d3d1d09794d8f021f40f0e
+- 5fcfd41e547a12215b173ff47fdd3739
+- fea0f1f6fede90bd0a925b4194deac11
+
+[*] 4 Cracked MD5 Hashes found
+
+- fea0f1f6fede90bd0a925b4194deac11 : cheese
+- d1133275ee2118be63a577af759fc052 : joshua
+- 5badcaf789d3d1d09794d8f021f40f0e : starwars
+- 5fcfd41e547a12215b173ff47fdd3739 : trustno1
+
